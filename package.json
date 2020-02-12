@@ -1,0 +1,25 @@
+{
+  "name": "unit-testing-jest",
+  "version": "1.0.0",
+  "description": "Pruebas unitarias con Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omarefg/unit-testing-jest.git"
+  },
+  "keywords": [],
+  "author": "Omar Flores Grimontt <dev@omarefg.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/omarefg/unit-testing-jest/issues"
+  },
+  "homepage": "https://github.com/omarefg/unit-testing-jest#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
